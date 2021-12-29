@@ -1,6 +1,6 @@
 <h2>Reproduce Submit</h2>
 <a href="https://www.kaggle.com/c/human-protein-atlas-image-classification">
-comptetion link
+competition link
 </a>
 <img src="https://github.com/Howard1999/Kaggle-Human-Protein-Atlas-Image-Classification/blob/master/score.png" alt="score screenshot">
 <hr>
